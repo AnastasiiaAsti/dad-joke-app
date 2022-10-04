@@ -20,14 +20,14 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 45vh;
+    height: 50vh;
     width: 80vw;
     background-color: rgb(245, 237, 171);
     border-radius: 10px;
     box-shadow: 10px 24px 16px 7px rgba(0, 0, 0, 0.45);
     -webkit-box-shadow: 10px 24px 16px 7px rgba(0, 0, 0, 0.45);
     -moz-box-shadow: 10px 24px 16px 7px rgba(0, 0, 0, 0.45);
-    padding: 50px 40px;
+    padding: 20px 40px;
     text-align: center;
 }
 
