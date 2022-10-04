@@ -6,14 +6,14 @@
 
 body {
     font-family: 'Muli', sans-serif;
-    margin: 3rem;
+    margin: 1rem;
     display: flex;
-    align-items: start;
     justify-content: center;
     height: 100vh;
     overflow: hidden;
     background-color: rgb(122, 145, 111);
 }
+
 
 .container {
     display: flex;
@@ -37,9 +37,9 @@ body {
 }
 
 .joke {
-    font-size: 30px;
+    font-size: 1.5rem;
     letter-spacing: 1px;
-    line-height: 40px;
+    line-height: 2rem;
     margin: 50px auto;
 }
 
@@ -54,8 +54,7 @@ body {
     outline: none;
     border: none;
     border-radius: 10px;
-    width: 25%;
-    padding: 14px 40px;
+    padding: 10px 35px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
@@ -72,7 +71,7 @@ body {
 
 /*cup animation*/
 
-#wrapper {
+#cup-wrapper {
     position: absolute;
     bottom: 0;
     left: 50%;
